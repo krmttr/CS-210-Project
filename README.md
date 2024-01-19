@@ -23,7 +23,7 @@ In this project, I aim to investigate the hypothesis that daily physical activit
 
 ## Usage
 
-Feel free to explore the notebooks, data, and results in this repository to gain insights into the relationship between physical activity and sleep quality. Please do not send messages to use my personal data, it will not be allowed!
+Feel free to explore the notebooks, data, and results in this repository to gain insights into the relationship between physical activity and sleep quality. Please do not send messages to use personal data, it will not be allowed!
 
 ## Prepared by
 
