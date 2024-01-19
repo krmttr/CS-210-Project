@@ -1,3 +1,4 @@
 # CS-210-Project
-Sabanci University CS 210 Introduction to Data Science Course Project
-Fall 2023-24
+Sabanci University 
+<br>CS 210 Introduction to Data Science Course Project
+<br>Fall 2023-24
