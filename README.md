@@ -13,17 +13,17 @@ In this project, I aim to investigate the hypothesis that daily physical activit
 
 ## Repository Contents
 
-- **Notebooks:** This directory contains Jupyter notebooks used for exploratorydata analysis, machine learning models, and visualization.
+- **Notebook:** This directory contains a Jupyter notebook used for exploratorydata analysis, machine learning models, and visualization.
 
-- **Data:** The data folder contains the necessary datasets, including Apple Health data in CSV format.
+- **Data:** The data folder contains the necessary datasets, including Apple Health data in CSV format. (Data file is ignored by using .gitignore)
 
-- **Results:** In this directory, you'll find the project's results, including visualizations and findings.
+- **Results:** You'll find the project's results in Jupyter Notebook, including visualizations and findings.
 
-- **Documentation:** This section includes project documentation, including README files and any additional project-related documents.
+- **Documentation:** There is a PDF file that contains infographic based on results of this project.
 
 ## Usage
 
-Feel free to explore the notebooks, data, and results in this repository to gain insights into the relationship between physical activity and sleep quality. You can run the notebooks on your local machine for a detailed analysis.
+Feel free to explore the notebooks, data, and results in this repository to gain insights into the relationship between physical activity and sleep quality.
 
 ## Prepared by
 
@@ -31,7 +31,7 @@ Feel free to explore the notebooks, data, and results in this repository to gain
 
 ## Acknowledgments
 
-I would like to express our gratitude to our instructor and fellow students for their guidance and support throughout this project.
+I would like to express our gratitude to our instructor and teaching assistants for their guidance and support throughout this project.
 
 For any inquiries, please contact with me!
 
