@@ -5,11 +5,11 @@
 
 ## Project Overview
 
-Welcome to the repository for our CS 210 Introduction to Data Science course project, conducted during the Fall semester of 2023-24 at Sabanci University. This project explores the relationship between physical activity and sleep quality using personal health data.
+Welcome to the repository for my CS 210 Introduction to Data Science course project, conducted during the Fall semester of 2023-24 at Sabanci University. This project explores the relationship between physical activity and sleep quality using personal health data.
 
 ## Project Description
 
-In this project, I aim to investigate the hypothesis that daily physical activity levels have a significant impact on sleep quality. To do so, I have utilized Apple Health data as our primary data source, focusing on sleep patterns and activity metrics.
+In this project, I aim to investigate the hypothesis that daily physical activity levels have a significant impact on sleep quality. To do so, I have utilized Apple Health data as my primary data source, focusing on sleep patterns and activity metrics.
 
 ## Repository Contents
 
@@ -23,7 +23,7 @@ In this project, I aim to investigate the hypothesis that daily physical activit
 
 ## Usage
 
-Feel free to explore the notebooks, data, and results in this repository to gain insights into the relationship between physical activity and sleep quality.
+Feel free to explore the notebooks, data, and results in this repository to gain insights into the relationship between physical activity and sleep quality. Please do not send messages to use my personal data, it will not be allowed!
 
 ## Prepared by
 
@@ -31,8 +31,8 @@ Feel free to explore the notebooks, data, and results in this repository to gain
 
 ## Acknowledgments
 
-I would like to express our gratitude to our instructor and teaching assistants for their guidance and support throughout this project.
+I would like to express my gratitude to CS 210 course instructor Onur Varol, and teaching assistants for their guidance and support throughout this project.
 
 For any inquiries, please contact with me!
 
-Thank you for visiting our repository!
+Thank you for visiting this repository!
