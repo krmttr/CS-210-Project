@@ -1,7 +1,5 @@
 # CS-210-Project
 
-![Sabanci University Logo](https://www.sabanciuniv.edu/sites/all/themes/sgs/assets/images/logo.png)
-
 **CS 210 Introduction to Data Science Course Project**
 **Fall 2023-24**
 
