@@ -1,7 +1,7 @@
 # CS 210 Project
 
 **CS 210 Introduction to Data Science Course Project**
-**Fall 2023-24**
+<br>**Fall 2023-24**
 
 ## Project Overview
 
